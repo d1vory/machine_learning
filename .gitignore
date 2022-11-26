@@ -1,0 +1,13 @@
+.idea
+
+/computer_vision/lab_02/data
+/ml/.idea
+/ml/.git
+/ml/OpenData2018.csv
+/ml/wfp_food_prices_ukr.csv
+/ml/ml_03/*.csv
+/ml/ml_exam/*.csv
+
+/ml2/lab_01/datasets
+/ml2/lab_02/datasets/
+/people science/lab_04/data/
